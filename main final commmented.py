@@ -5,9 +5,9 @@
 #turning on the LED and buzzer if it crosses the specified threshhold
 
 ##USER INPUT##
-adafruitUsername = "scrogh"
-adafruitAioKey = "aio_qlYM51UXWmkng69p8KN6hxh1Fj4s"
-feedName = "scrogh/feeds/hush-2"
+adafruitUsername = "XX"
+adafruitAioKey = "XX"
+feedName = "XX"
 limit = 440 #AUDIO AMPLITUDE LIMIT where buzzer/LED/SMS will be triggered (around 400-600 should be fine)
 wait_time = 0.5 #Time to wait between loops of sampling audio
 samplesize = 25600 # desired sample size in bytes (must be a multiple of 6400)
